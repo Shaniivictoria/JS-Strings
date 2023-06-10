@@ -1,0 +1,7 @@
+const fName = "Shani"
+const lName = "Diaz";
+let age = 31;
+let carName = "Sonata";
+let town = "Providence";
+let favoriteShow = "Rick and Morty"
+let favoriteCreature = "Aliens"
